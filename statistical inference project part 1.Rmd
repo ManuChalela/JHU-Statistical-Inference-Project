@@ -1,5 +1,5 @@
 ---
-title: "JHU Statistical Inference Project"
+title: "JHU Statistical Inference Project - Part 1"
 author: "Emanuel Chalela"
 date: "20/12/2020"
 output: pdf_document
